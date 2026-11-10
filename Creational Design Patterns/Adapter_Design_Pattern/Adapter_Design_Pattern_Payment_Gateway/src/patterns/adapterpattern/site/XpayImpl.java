@@ -1,6 +1,6 @@
-package com.javacodegeeks.patterns.adapterpattern.site;
+package patterns.adapterpattern.site;
 
-import com.javacodegeeks.patterns.adapterpattern.xpay.Xpay;
+import patterns.adapterpattern.xpay.Xpay;
 
 public class XpayImpl implements Xpay {
 	

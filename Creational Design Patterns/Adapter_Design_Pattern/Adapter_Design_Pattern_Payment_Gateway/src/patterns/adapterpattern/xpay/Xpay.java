@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.adapterpattern.xpay;
+package patterns.adapterpattern.xpay;
 
 public interface Xpay {
 	
